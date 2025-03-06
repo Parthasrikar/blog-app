@@ -1,0 +1,6 @@
+name = "blog_app"
+compatibility_date = "2025-01-01"
+
+[vars]
+DATABASE_URL = "prisma://accelerate.prisma-data.net/?api_key=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcGlfa2V5IjoiNjczNGNhOTktYTJhMS00NGM1LTkxNTUtNWUxOGQ5ZTQyMDg1IiwidGVuYW50X2lkIjoiMzkzN2IwNjQ2MDk0MGM1OGNiYmE0MDFjOWJjNDA0NmIyZmYyZTY4Yjc1MjJlNWM4ZDc1MmUzMmYwNDZlZmE0NCIsImludGVybmFsX3NlY3JldCI6IjA4ZDBlN2NjLTc4NmEtNDAzMi1hOWFkLWM1Y2ViOWYzMzA4YiJ9.DMl9rn9zChZmTcdcI8mLWTWHcKsr4dyZEGr4Wvt0Yjw"
+JWT_SECRET = "nvdrljdjnndfjbn"
